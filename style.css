@@ -185,9 +185,13 @@ body {
   .component1 {
     margin-bottom: 1rem;
   }
+
   .container {
     align-items: normal;
     flex-direction: column;
+  }
+  .content2__poops::after {
+    content: none;
   }
 
 }
