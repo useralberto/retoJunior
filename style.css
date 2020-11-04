@@ -118,12 +118,11 @@ body {
   border-radius: inherit;
   background-image: linear-gradient(to right,#ffa399,#ff4d97);
   width: 0%;
-  -moz-transition: all 4s ease;
+  -moz-transition: all 1s ease;
   -moz-transition-delay: 1s;
-  -webkit-transition: all 4s ease;
+  -webkit-transition: all 1s ease;
   -webkit-transition-delay: 1s; 
-  transition: all 4s ease;
-  transition-delay: 1s;
+  transition: all 1s ease;
 }
 
 .content2__Bar--comple::after {
